@@ -3,6 +3,9 @@
 
 Repository dedicated to completed [Dataquest](https://www.dataquest.io/) Challenge Projects, final projects at the end of each course.
 
+### Storytelling Through Data Visualization
+[A brief visual exploration]() of the gender gap in college degrees across time.
+
 ### Exploratory Data Visualization: Visual Analysis of Income of Recent Graduates
 > [Visual Exploration](https://github.com/aleperf/dataquest-challenge-projects/tree/master/exploratory-data-visualization) using Matplotlib
 
