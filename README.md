@@ -4,7 +4,7 @@
 Repository dedicated to completed [Dataquest](https://www.dataquest.io/) Challenge Projects, final projects at the end of each course.
 
 ### Data Cleaning And Analysis
-[Clean and analyze]() the exit surveys of employees leaving the job in two education institutes in Australia.
+[Clean and analyze](https://github.com/aleperf/dataquest-challenge-projects/blob/master/data-cleaning/DataCleaningProject.ipynb) the exit surveys of employees leaving the job in two education institutes in Australia.
 
 ### Storytelling Through Data Visualization
 [A brief visual exploration](https://github.com/aleperf/dataquest-challenge-projects/blob/master/storytelling-through-data-visualization/DegreesGenderGap.ipynb) of the gender gap in college degrees across time.
