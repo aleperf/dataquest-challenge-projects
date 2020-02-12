@@ -4,7 +4,7 @@
 Repository dedicated to completed [Dataquest](https://www.dataquest.io/) Challenge Projects, final projects at the end of each course.
 
 ### Data Cleaning Project Walkthrough
-[Analysis of New York City Schools SAT Results]() <br>
+[Analysis of New York City Schools SAT Results](https://github.com/aleperf/dataquest-challenge-projects/tree/master/data-cleaning-project-walkthrough/nyc-sat-results) <br>
 Analysis of factors correlated to SAT Results for New York High Schools
 ### Data Cleaning And Analysis
 [Clean and analyze](https://github.com/aleperf/dataquest-challenge-projects/blob/master/data-cleaning/DataCleaningProject.ipynb) the exit surveys of employees leaving the job in two education institutes in Australia.
