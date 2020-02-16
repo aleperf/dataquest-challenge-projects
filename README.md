@@ -6,6 +6,10 @@ Repository dedicated to completed [Dataquest](https://www.dataquest.io/) Challen
 ### Data Cleaning Project Walkthrough
 [Analysis of New York City Schools SAT Results](https://github.com/aleperf/dataquest-challenge-projects/tree/master/data-cleaning-project-walkthrough/nyc-sat-results) <br>
 Analysis of factors correlated to SAT Results for New York High Schools
+[Star Wars Survey]()
+Data cleaning and analysis of the Star Wars survey realized by FiveThirtyEight in 2014.
+[Marvel Wiki Data Cleaning]()
+Mini project with data cleaning of data about the Marvel Avengers Wiki collected by FiveTirtyEight.
 ### Data Cleaning And Analysis
 [Clean and analyze](https://github.com/aleperf/dataquest-challenge-projects/blob/master/data-cleaning/DataCleaningProject.ipynb) the exit surveys of employees leaving the job in two education institutes in Australia.
 
