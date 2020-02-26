@@ -3,6 +3,10 @@
 
 Repository dedicated to completed [Dataquest](https://www.dataquest.io/) Challenge Projects, final projects at the end of each course.
 
+### SQL Fundamentals
+[Analyzing CIA Factbook Data Using SQL]() <br>
+Brief analysis of the CIA Factbook dataset about countries and territories from all the world using pure SQL.
+
 ### Data Cleaning Project Walkthrough
 - [Analysis of New York City Schools SAT Results](https://github.com/aleperf/dataquest-challenge-projects/blob/master/data-cleaning-project-walkthrough/nyc-sat-results/Schools.ipynb) <br>
 Analysis of factors correlated to SAT Results for New York High Schools
