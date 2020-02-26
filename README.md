@@ -4,7 +4,7 @@
 Repository dedicated to completed [Dataquest](https://www.dataquest.io/) Challenge Projects, final projects at the end of each course.
 
 ### SQL Fundamentals
-[Analyzing CIA Factbook Data Using SQL]() <br>
+[Analyzing CIA Factbook Data Using SQL](https://github.com/aleperf/dataquest-challenge-projects/blob/master/sql-fundamentals/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL.ipynb) <br>
 Brief analysis of the CIA Factbook dataset about countries and territories from all the world using pure SQL.
 
 ### Data Cleaning Project Walkthrough
