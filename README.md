@@ -3,6 +3,10 @@
 
 Repository dedicated to completed [Dataquest](https://www.dataquest.io/) Challenge Projects, final projects at the end of each course.
 
+### SQL Intermediate: Table Relations and Joins
+- [Answering Business Questions with SQL]() <br>
+This project explores the chinook database, a well-known database containing fictional data about a digital media store, using the sqlite3 python module and pandas.
+
 ### SQL Fundamentals
 [Analyzing CIA Factbook Data Using SQL](https://github.com/aleperf/dataquest-challenge-projects/blob/master/sql-fundamentals/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL.ipynb) <br>
 Brief analysis of the CIA Factbook dataset about countries and territories from all the world using pure SQL.
