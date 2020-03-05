@@ -4,7 +4,7 @@
 Repository dedicated to completed [Dataquest](https://www.dataquest.io/) Challenge Projects, final projects at the end of each course.
 
 ### SQL Intermediate: Table Relations and Joins
-- [Answering Business Questions with SQL]() <br>
+- [Answering Business Questions with SQL](https://github.com/aleperf/dataquest-challenge-projects/blob/master/sql-intermediate/answering-business-questions/Answering%20Business%20Questions%20with%20SQL.ipynb) <br>
 This project explores the chinook database, a well-known database containing fictional data about a digital media store, using the sqlite3 python module and pandas.
 
 ### SQL Fundamentals
