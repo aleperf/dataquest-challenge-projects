@@ -4,7 +4,7 @@
 Repository dedicated to completed [Dataquest](https://www.dataquest.io/) Challenge Projects, final projects at the end of each course.
 
 ### Data Analysis in Business
-[Popular Data Science Questions]() <br>
+[Popular Data Science Questions](https://github.com/aleperf/dataquest-challenge-projects/blob/master/data-analysis-in-business/Popular%20Data%20Science%20Questions.ipynb) <br>
 Analysis of the most popular and most viewed tags on [StackExchange Data Science](https://datascience.stackexchange.com/) websiste bewtween 2014 and 2019.
 
 ### SQL Intermediate: Table Relations and Joins
