@@ -4,7 +4,7 @@
 Repository dedicated to completed [Dataquest](https://www.dataquest.io/) Challenge Projects, final projects at the end of each course.
 
 ### Statistics Fundamentals
-[Investigating Fandango Movie Ratings]() <br>
+[Investigating Fandango Movie Ratings](https://github.com/aleperf/dataquest-challenge-projects/blob/master/statistics-fundamentals/Investigating%20Fandango%20Movie%20Ratings.ipynb) <br>
 Investigating if Fandango movie ratings changed in 2016 after a famous 2015 article posing doubts about the rating system.
 
 ### Data Analysis in Business
