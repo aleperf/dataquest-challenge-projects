@@ -4,7 +4,7 @@
 Repository dedicated to completed [Dataquest](https://www.dataquest.io/) Challenge Projects, final projects at the end of each course.
 
 ### Statistics Intermediate
-[Finding the Best Markets to Advertise In]() <br>
+[Finding the Best Markets to Advertise In](https://github.com/aleperf/dataquest-challenge-projects/blob/master/statistics-intermediate/Finding%20the%20Best%20Markets%20to%20Advertise%20In.ipynb) <br>
 Analysis of the FreeCodeCamp 2017 Survey in order to discover interesting markets for an e-learning company.
 
 ### Statistics Fundamentals
