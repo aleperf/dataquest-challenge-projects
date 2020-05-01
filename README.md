@@ -3,6 +3,10 @@
 
 Repository dedicated to completed [Dataquest](https://www.dataquest.io/) Challenge Projects, final projects at the end of each course.
 
+### Statistics Intermediate
+[Finding the Best Markets to Advertise In]() <br>
+Analysis of the FreeCodeCamp 2017 Survey in order to discover interesting markets for an e-learning company.
+
 ### Statistics Fundamentals
 [Investigating Fandango Movie Ratings](https://github.com/aleperf/dataquest-challenge-projects/blob/master/statistics-fundamentals/Investigating%20Fandango%20Movie%20Ratings.ipynb) <br>
 Investigating if Fandango movie ratings changed in 2016 after a famous 2015 article posing doubts about the rating system.
