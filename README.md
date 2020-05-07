@@ -47,7 +47,7 @@ Data cleaning mini-challenge of data, about the Marvel Avengers Wiki, collected 
  [Exploring The eBay Kleinanzeigen Used Cars Database](https://github.com/aleperf/dataquest-challenge-projects/blob/master/pandas-fundamentals/ExploringEbayCarSales.ipynb) of a dataset using Pandas functionalities.
 
 ### Python Intermediate
-[Exploring Hacker News Posts]() <br>
+[Exploring Hacker News Posts](https://github.com/aleperf/dataquest-challenge-projects/blob/master/python-intermediate/Exploring%20Hacker%20News%20Posts.ipynb) <br>
 Brief exploration of Hacker News posts in pure Python.
 
 ### Python Fundamentals
