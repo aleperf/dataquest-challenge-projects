@@ -4,7 +4,7 @@
 Repository dedicated to completed [Dataquest](https://www.dataquest.io/) Challenge Projects, final projects at the end of each course.
 
 ### Probability Fundamentals
-[Mobile App for Lottery Addiction]() <br>
+[Mobile App for Lottery Addiction](https://github.com/aleperf/dataquest-challenge-projects/blob/master/probability_fundamentals/Mobile%20App%20for%20Lottery%20Addiction.ipynb) <br>
 Implementation of the logic for an app about the probabilities of winning the 6/49 Lottery prizes.
 
 ### Statistics Intermediate
@@ -40,12 +40,17 @@ Data cleaning mini-challenge of data, about the Marvel Avengers Wiki, collected 
 ### Storytelling Through Data Visualization
 [A brief visual exploration](https://github.com/aleperf/dataquest-challenge-projects/blob/master/storytelling-through-data-visualization/DegreesGenderGap.ipynb) of the gender gap in college degrees across time.
 
-### Exploratory Data Visualization: Visual Analysis of Income of Recent Graduates
-> [Visual Exploration](https://github.com/aleperf/dataquest-challenge-projects/blob/master/exploratory-data-visualization/RecentGraduates.ipynb) using Matplotlib
+### Exploratory Data Visualization
+[Visual Analysis of Income of Recent Graduates](https://github.com/aleperf/dataquest-challenge-projects/blob/master/exploratory-data-visualization/RecentGraduates.ipynb) using Matplotlib
 
-### Pandas Fundamentals: Exploring The eBay Kleinanzeigen Used Cars Database
-> [Exploration](https://github.com/aleperf/dataquest-challenge-projects/blob/master/pandas-fundamentals/ExploringEbayCarSales.ipynb) of a dataset using Pandas functionalities.
+### Pandas Fundamentals
+ [Exploring The eBay Kleinanzeigen Used Cars Database](https://github.com/aleperf/dataquest-challenge-projects/blob/master/pandas-fundamentals/ExploringEbayCarSales.ipynb) of a dataset using Pandas functionalities.
 
-### Python Fundamentals: Analysis of succesful apps in Google Play and the AppStore <br>
->[Exploration](https://github.com/aleperf/dataquest-challenge-projects/blob/master/introduction-to-python/SuccessfulApps.ipynb) of two Kaggle Datasets about Apple and Android Apps using only pure Python.
+### Python Intermediate
+[Exploring Hacker News Posts]() <br>
+Brief exploration of Hacker News posts in pure Python.
+
+### Python Fundamentals
+ [Analysis of succesful apps in Google Play and the AppStore ](https://github.com/aleperf/dataquest-challenge-projects/blob/master/introduction-to-python/SuccessfulApps.ipynb) <br>
+ Analysis of two Kaggle Datasets about Apple and Android Apps using only pure Python.
 
