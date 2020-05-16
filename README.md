@@ -3,6 +3,10 @@
 
 Repository dedicated to completed [Dataquest](https://www.dataquest.io/) Challenge Projects, final projects at the end of each course.
 
+### Conditional Probability
+[Building a Spam Filter with Naive Bayes]() <br>
+A spam filter built using the multinomial Naive Bayes algorithm applied to the SMS Spam Collection Data Set from the UCI Machine Learning Repository
+
 ### Probability Fundamentals
 [Mobile App for Lottery Addiction](https://github.com/aleperf/dataquest-challenge-projects/blob/master/probability_fundamentals/Mobile%20App%20for%20Lottery%20Addiction.ipynb) <br>
 Implementation of the logic for an app about the probabilities of winning the 6/49 Lottery prizes.
