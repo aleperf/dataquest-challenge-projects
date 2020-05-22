@@ -3,6 +3,10 @@
 
 Repository dedicated to completed [Dataquest](https://www.dataquest.io/) Challenge Projects, final projects at the end of each course.
 
+### Machine Learning Fundamentals
+[Predicting Car Prices]()
+Prediction of car prices using the k-nearest Neighbors algorithm.
+
 ### Hypothesis Testing Fundamentals
 [Winning Jeopardy](https://github.com/aleperf/dataquest-challenge-projects/tree/master/hypothesis-testing-fundamentals) <br>
  Attempting to find patterns between questions and answers in a sample dataset from the popular TV show Jeopardy!.
