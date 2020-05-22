@@ -4,7 +4,7 @@
 Repository dedicated to completed [Dataquest](https://www.dataquest.io/) Challenge Projects, final projects at the end of each course.
 
 ### Machine Learning Fundamentals
-[Predicting Car Prices]()
+[Predicting Car Prices](https://github.com/aleperf/dataquest-challenge-projects/tree/master/machine-learning-fundamentals) <br>
 Prediction of car prices using the k-nearest Neighbors algorithm.
 
 ### Hypothesis Testing Fundamentals
