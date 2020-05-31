@@ -4,7 +4,7 @@
 Repository dedicated to completed [Dataquest](https://www.dataquest.io/) Challenge Projects, final projects at the end of each course.
 
 ### Linear Regression for Machine Learning
-[Predicting House Sale Prices]()
+[Predicting House Sale Prices](https://github.com/aleperf/dataquest-challenge-projects/tree/master/linear-regression-for-machine-learning)
 Prediction of house sale prices of the Ames Housing dataset, using Linear Regression.
 
 ### Machine Learning Fundamentals
