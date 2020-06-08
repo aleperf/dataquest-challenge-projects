@@ -3,6 +3,10 @@
 
 Repository dedicated to completed [Dataquest](https://www.dataquest.io/) Challenge Projects, final projects at the end of each course.
 
+### Machine Learning in Python Intermediate
+[Predicting the Stock Market]() <br>
+Prediction of the S&P 500 index based on data from previous days, after a training on historical data, using Linear Regression.
+
 ### Linear Regression for Machine Learning
 [Predicting House Sale Prices](https://github.com/aleperf/dataquest-challenge-projects/tree/master/linear-regression-for-machine-learning)
 Prediction of house sale prices of the Ames Housing dataset, using Linear Regression.
