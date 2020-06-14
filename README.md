@@ -3,6 +3,11 @@
 
 Repository dedicated to completed [Dataquest](https://www.dataquest.io/) Challenge Projects, final projects at the end of each course.
 
+### Decision Trees
+[Predicting Bike Rentals]() <br>
+Prediction of the number of bike rentals in Washington D.C. using three different machine learning models: Linear Regression, Decision Tree, and Random Forest.
+
+
 ### Machine Learning in Python Intermediate
 [Predicting the Stock Market](https://github.com/aleperf/dataquest-challenge-projects/tree/master/machine-learning-python-intermediate) <br>
 Prediction of the S&P 500 index based on data from previous days, after a training on historical data, using Linear Regression.
