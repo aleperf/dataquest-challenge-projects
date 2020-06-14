@@ -4,7 +4,7 @@
 Repository dedicated to completed [Dataquest](https://www.dataquest.io/) Challenge Projects, final projects at the end of each course.
 
 ### Decision Trees
-[Predicting Bike Rentals]() <br>
+[Predicting Bike Rentals](https://github.com/aleperf/dataquest-challenge-projects/tree/master/decision-trees) <br>
 Prediction of the number of bike rentals in Washington D.C. using three different machine learning models: Linear Regression, Decision Tree, and Random Forest.
 
 
